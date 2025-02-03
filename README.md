@@ -4,7 +4,7 @@
 - 🏋️‍♂️ Hobbies: Coding, reading books, cooking and listening to motivational podcasts.
 - ⚡ Fun fact: For me, coding is like solving puzzles, reading is like time travel!
 - 💡 Favorite Quote: "The only way to do great work is to love what you do." – Steve Jobs
-- 📧 How to reach me: alina.s.abbaz@gmail.com.
+- 📧 How to reach me: alinaspahiu.a@gmail.com.
 - 🔗 LinkedIn: https://www.linkedin.com/in/alina-spahiu-b16793289/
 
 <!---
