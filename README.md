@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=ruhsulin&color=green)
+
 - 👋 Hi, I’m @Alina Spahiu,
 - 👀 Passionate about: Web development with a focus on ASP.NET, Clean Architecture, and building scalable, maintainable applications.
 - 🌍 Languages: Albanian, English, Turkish.
